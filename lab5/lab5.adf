@@ -1,0 +1,126 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=lab5
+
+[Library]
+lab5=.\lab5.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+lab5=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Groups]
+Task_1_TB=1
+Task2_TB=1
+Task3_TB=1
+Task4_TB=1
+
+[Files]
+/Task_1.asf=-1
+/Task2.asf=-1
+/Task3.asf=-1
+/Task4.asf=-1
+Task_1_TB/Task_1_tb1.do=-1
+Task_1_TB/Task_1_tb1.vhd=-1
+Task_1_TB/Task_1_tb2.do=-1
+Task_1_TB/Task_1_tb2.vhd=-1
+Task_1_TB/Task_1_tb3.do=-1
+Task_1_TB/Task_1_tb3.vhd=-1
+Task2_TB/Task2_tb1.do=-1
+Task2_TB/Task2_tb1.vhd=-1
+Task2_TB/Task2_tb2.do=-1
+Task2_TB/Task2_tb2.vhd=-1
+Task2_TB/Task2_tb3.do=-1
+Task2_TB/Task2_tb3.vhd=-1
+Task3_TB/Task3_tb1.do=-1
+Task3_TB/Task3_tb1.vhd=-1
+Task3_TB/Task3_tb2.do=-1
+Task3_TB/Task3_tb2.vhd=-1
+Task3_TB/Task3_tb3.do=-1
+Task3_TB/Task3_tb3.vhd=-1
+Task4_TB/Task4_tb1.do=-1
+Task4_TB/Task4_tb1.vhd=-1
+Task4_TB/Task4_tb2.do=-1
+Task4_TB/Task4_tb2.vhd=-1
+Task4_TB/Task4_tb3.do=-1
+Task4_TB/Task4_tb3.vhd=-1
+
+[Files.Data]
+.\src\Task_1.asf=State Diagram
+.\src\Task2.asf=State Diagram
+.\src\Task3.asf=State Diagram
+.\src\Task4.asf=State Diagram
+.\src\Task_1_TB\Task_1_tb1.do=Macro
+.\src\Task_1_TB\Task_1_tb1.vhd=VHDL Test Bench
+.\src\Task_1_TB\Task_1_tb2.do=Macro
+.\src\Task_1_TB\Task_1_tb2.vhd=VHDL Test Bench
+.\src\Task_1_TB\Task_1_tb3.do=Macro
+.\src\Task_1_TB\Task_1_tb3.vhd=VHDL Test Bench
+.\src\Task2_TB\Task2_tb1.do=Macro
+.\src\Task2_TB\Task2_tb1.vhd=VHDL Test Bench
+.\src\Task2_TB\Task2_tb2.do=Macro
+.\src\Task2_TB\Task2_tb2.vhd=VHDL Test Bench
+.\src\Task2_TB\Task2_tb3.do=Macro
+.\src\Task2_TB\Task2_tb3.vhd=VHDL Test Bench
+.\src\Task3_TB\Task3_tb1.do=Macro
+.\src\Task3_TB\Task3_tb1.vhd=VHDL Test Bench
+.\src\Task3_TB\Task3_tb2.do=Macro
+.\src\Task3_TB\Task3_tb2.vhd=VHDL Test Bench
+.\src\Task3_TB\Task3_tb3.do=Macro
+.\src\Task3_TB\Task3_tb3.vhd=VHDL Test Bench
+.\src\Task4_TB\Task4_tb1.do=Macro
+.\src\Task4_TB\Task4_tb1.vhd=VHDL Test Bench
+.\src\Task4_TB\Task4_tb2.do=Macro
+.\src\Task4_TB\Task4_tb2.vhd=VHDL Test Bench
+.\src\Task4_TB\Task4_tb3.do=Macro
+.\src\Task4_TB\Task4_tb3.vhd=VHDL Test Bench
+.\compile\Task_1.vhd=VHDL Source Code
+.\compile\Task2.vhd=VHDL Source Code
+.\compile\Task3.vhd=VHDL Source Code
+.\compile\Task4.vhd=VHDL Source Code
+
+
+
+
+
+[file_out:/Task_1.asf]
+/..\compile\Task_1.vhd=-1
+[file_out:/Task2.asf]
+/..\compile\Task2.vhd=-1
+[file_out:/Task3.asf]
+/..\compile\Task3.vhd=-1
+[file_out:/Task4.asf]
+/..\compile\Task4.vhd=-1
